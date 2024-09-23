@@ -1,6 +1,6 @@
 # Hi there, I'm Bilgehan - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="[https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F1108237420781471203%2F&psig=AOvVaw3lnxJkVEU9jG0vwdh7S5TJ&ust=1727222237374000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMD1t7Gi2ogDFQAAAAAdAAAAABAc)" />
 
 ## I'm a Computer Science and Engineering Student  
 
