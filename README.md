@@ -21,8 +21,8 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="John Bulitini | LinkedIn" height="60px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="inefaveu | Instagram" height="60px" src="[https://image.flaticon.com/icons/svg/725/725278.svg](https://www.vicosa.mg.leg.br/imagens/instagram-icone-png.png/image)" />][instagram]
+[<img align="left" alt="John Bulitini | LinkedIn" height="60px" src="https://www.flaticon.com/free-icon/linkedin_2504923?term=linkedin&page=1&position=11&origin=search&related_id=2504923"/>][linkedin]
+[<img align="left" alt="inefaveu | Instagram" height="60px" src="https://image.flaticon.com/icons/svg/725/725278.svg](https://www.vicosa.mg.leg.br/imagens/instagram-icone-png.png/image)" />][instagram]
 [<img align="left" alt="John Bulitini | Spotify" height="60px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 <br />
