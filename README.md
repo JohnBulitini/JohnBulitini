@@ -1,4 +1,4 @@
-# Hi there, I'm Bilgehan - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm John.
 
 <img align="right" alt="GIF" height="300px" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-748.gif" />
 
