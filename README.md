@@ -77,9 +77,10 @@
 ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
 
 ---
-
-[instagram]: https://www.instagram.com/inefaveu
 [linkedin]: https://www.linkedin.com/in/jhonatan-bulitini-98256829b/
+[WhatsApp]: https://wa.me/5511973957805
+[Facebook]: https://www.facebook.com/jou.jonnn/
+[instagram]: https://www.instagram.com/inefaveu
 [Spotify]: https://open.spotify.com/user/315sg7yqwduqixfp7s6i7kvloqxq
 
 ----
