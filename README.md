@@ -1,6 +1,6 @@
 # Hi there, I'm John.
 
-<img align="right" alt="GIF" height="300px" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-748.gif" />
+<img align="right" alt="GIF" height="160px" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-748.gif" />
 
 ## I'm a Computer Science and Engineering Student  
 
@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
