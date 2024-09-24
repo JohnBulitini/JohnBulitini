@@ -21,7 +21,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="John Bulitini | LinkedIn" height="20px" src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&related_id=3536505"/>][linkedin]
+[<img align="left" alt="John Bulitini | LinkedIn" height="30px" src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&related_id=3536505"/>][linkedin]
 [<img align="left" alt="inefaveu | Instagram" height="20px" src="https://image.flaticon.com/icons/svg/725/725278.svg](https://www.vicosa.mg.leg.br/imagens/instagram-icone-png.png/image)" />][instagram]
 [<img align="left" alt="John Bulitini | Spotify" height="20px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
