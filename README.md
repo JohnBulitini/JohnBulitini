@@ -1,7 +1,5 @@
 # Hi there, I'm John.
 
-<img align="right" alt="GIF" height="160px" src="https://www.icegif.com/wp-content/uploads/2023/06/icegif-748.gif" />
-
 ## I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
