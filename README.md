@@ -21,9 +21,9 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="John Bulitini | LinkedIn" height="20px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="inefaveu | Instagram" height="20px" src="[https://image.flaticon.com/icons/svg/725/725278.svg](https://www.vicosa.mg.leg.br/imagens/instagram-icone-png.png/image)" />][instagram]
-[<img align="left" alt="John Bulitini | Spotify" height="20px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+[<img align="left" alt="John Bulitini | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="inefaveu | Instagram" height="30px" src="[https://image.flaticon.com/icons/svg/725/725278.svg](https://www.vicosa.mg.leg.br/imagens/instagram-icone-png.png/image)" />][instagram]
+[<img align="left" alt="John Bulitini | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 <br />
 
@@ -72,7 +72,7 @@
 
 [instagram]: https://www.instagram.com/inefaveu
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-
+[Spotify]: https://open.spotify.com/user/315sg7yqwduqixfp7s6i7kvloqxq
 
 ----
 Credit: [Bgstatic](https://github.com/Bgstatic)
