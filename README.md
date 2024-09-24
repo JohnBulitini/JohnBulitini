@@ -1,6 +1,6 @@
 # Hi there, I'm John.
 
-## I'm a Computer Science and Engineering Student  
+## I'm a Computer Science Student  
 
 - <img align="right" alt="GIF" height="200px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   
