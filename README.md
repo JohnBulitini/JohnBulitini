@@ -71,7 +71,7 @@
 ---
 
 [instagram]: https://www.instagram.com/inefaveu
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+[linkedin]: https://www.linkedin.com/in/jhonatan-bulitini-98256829b/
 [Spotify]: https://open.spotify.com/user/315sg7yqwduqixfp7s6i7kvloqxq
 
 ----
