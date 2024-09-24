@@ -72,7 +72,6 @@
 
 [instagram]: https://www.instagram.com/inefaveu
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/315sg7yqwduqixfp7s6i7kvloqxq
 
 
 ----
