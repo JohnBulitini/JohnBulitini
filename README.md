@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science Student  
 
-- <img align="right" alt="GIF" height="200px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+<img align="right" alt="GIF" height="200px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
   
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
@@ -23,7 +23,7 @@
 
 ### Contact with me 📝
 
-[![Linkedin](https://img.shields.io/badge/-João_Victor_Galdino_Cunha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-bulitini-98256829b/)](https://www.linkedin.com/in/jhonatan-bulitini-98256829b/)
+[![Linkedin](https://img.shields.io/badge/-Jhonatan_Bulitini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-bulitini-98256829b/)](https://www.linkedin.com/in/jhonatan-bulitini-98256829b/)
 [![Gmail Badge](https://img.shields.io/badge/-jouzink@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jouzink@gmail.com)](mailto:jouzink@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/JohnBulitini)
 
